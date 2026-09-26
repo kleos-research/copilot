@@ -18,7 +18,6 @@ a copy rather than a second site.
 | Home | `index.html` |
 | Install | `install.html` |
 | Documentation | `docs.html` |
-| Token | `token.html` |
 | Moodboard | `moodboard.html` |
 | Generated styles and scripts | `_astro/` |
 | Images and icons | `media/`, `favicon.*`, `apple-touch-icon.png`, `mark-512.png` |
